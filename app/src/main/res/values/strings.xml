@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SlotMachine</string>
+    <string name="run">RUN</string>
+    <string name="startButton">Combine Text and Image on a Button or ImageButton</string>
+    <string name="spin">SPIN</string>
+</resources>
